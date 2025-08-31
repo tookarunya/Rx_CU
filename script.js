@@ -1,8 +1,8 @@
    //ตั้งเวลาเปิดการลงคะแนนเสียง
-        var future = Date.parse("November 28, 2023 06:00:00");
+        var future = Date.parse("August 31, 2023 23:00:00");
 
    //ตั้งเวลาปิดการลงคะแนนเสียง 
-        var future2 = Date.parse("December 03, 2023 20:00:00");
+        var future2 = Date.parse("December 31, 2026 23:59:00");
         var timeEnd = 0;
         var status =0;
 
